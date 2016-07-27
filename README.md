@@ -16,6 +16,6 @@ The task is to predict the probability that each customer in the test set is an 
 
 ### File descriptions
 
-train.csv - the training set including the target
-test.csv - the test set without the target
-sample_submission.csv - a sample submission file in the correct format
+* train.csv - the training set including the target
+* test.csv - the test set without the target
+* sample_submission.csv - a sample submission file in the correct format
